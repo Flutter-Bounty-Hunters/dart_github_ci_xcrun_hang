@@ -36,7 +36,7 @@ void main() {
       // );
 
       print("DONE RUNNING XCRUN CALLS");
-    }, timeout: Timeout(const Duration(seconds: 10)));
+    });
   });
 }
 
